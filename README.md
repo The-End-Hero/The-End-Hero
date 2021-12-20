@@ -1,5 +1,8 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=The-End-Hero)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=The-End-Hero&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-End-Hero&theme=highcontrast&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 <!--
