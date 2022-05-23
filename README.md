@@ -1,12 +1,11 @@
 ### Hi there 👋
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=The-End-Hero&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats)
+<!-- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=The-End-Hero&count_private=true&show_icons=true&theme=highcontrast)](https://github.com/anuraghazra/github-readme-stats) -->
+<!-- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-End-Hero&theme=highcontrast&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-End-Hero&theme=highcontrast&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-End-Hero&count_private=true&show_icons=true&theme=highcontrast)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=The-End-Hero&count_private=true)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-End-Hero&layout=compact)](https://github.com/The-End-Hero/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=The-End-Hero&layout=compact&theme=highcontrast)
 
 <!--
 **The-End-Hero/The-End-Hero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
