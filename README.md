@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![Anurag's GitHub stats](https://github-stats-extended.vercel.app/api?username=The-End-Hero&count_private=true&show_icons=true&theme=highcontrast)
-![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=The-End-Hero&layout=compact&theme=highcontrast)
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=The-End-Hero&layout=compact&theme=highcontrast&langs_count=8)
 
 <!--
 **The-End-Hero/The-End-Hero** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
